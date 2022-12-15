@@ -1,12 +1,12 @@
 accent: "#6587bf"
-background: "#fafafa"
+background: "#000000"
 background_image:
   # background image credit: https://unsplash.com/photos/TD8CbG9-sMk
-  path: holiday/winter_bg.jpg
+  path: holiday/winter.jpg
   opacity: 47
 
 details: lighter
-foreground: "#5e646f"
+foreground: "#ffffff"
 terminal_colors:
   bright:
     black: "#5e646f"
